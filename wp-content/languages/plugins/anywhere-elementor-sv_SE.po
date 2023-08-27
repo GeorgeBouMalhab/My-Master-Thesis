@@ -1,0 +1,102 @@
+# Translation of Plugins - AnyWhere Elementor - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - AnyWhere Elementor - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-29 15:02:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - AnyWhere Elementor - Development (trunk)\n"
+
+#: includes/post-type.php:45
+msgid "Post List"
+msgstr "Inläggslista"
+
+#: includes/post-type.php:42
+msgid "Not found in Trash"
+msgstr "Hittades inte i papperskorgen"
+
+#: includes/post-type.php:41
+msgid "Not found"
+msgstr "Hittades inte"
+
+#: includes/post-type.php:40
+msgid "Search AE Template"
+msgstr "Sök AE-mall"
+
+#: includes/post-type.php:39
+msgid "View AE Template"
+msgstr "Visa AE-mall"
+
+#: includes/post-type.php:38
+msgid "Update AE Template"
+msgstr "Uppdatera AE-mall"
+
+#: includes/post-type.php:37
+msgid "Edit AE Template"
+msgstr "Redigera AE-mall"
+
+#: includes/post-type.php:36
+msgid "New AE Template"
+msgstr "Ny AE-mall"
+
+#: includes/post-type.php:35
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: includes/post-type.php:34
+msgid "Add New AE Template"
+msgstr "Lägg till ny AE-mall"
+
+#: includes/post-type.php:33
+msgid "All AE Templates"
+msgstr "Alla AE-mallar"
+
+#: includes/post-type.php:32
+msgid "Parent List:"
+msgstr "Överordnad lista:"
+
+#: includes/post-type.php:31
+msgid "List Archives"
+msgstr "Listarkiv"
+
+#: includes/post-type.php:29 includes/post-type.php:30
+msgid "AE Templates"
+msgstr "AE-mallar"
+
+#: includes/post-type.php:28
+msgctxt "Post Type Singular Name"
+msgid "AE Template"
+msgstr "AE-mall"
+
+#: includes/post-type.php:27
+msgctxt "Post Type General Name"
+msgid "AE Global Templates"
+msgstr "AE globala mallar"
+
+#: includes/meta-box.php:40
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#. Author URI of the plugin
+msgid "https://wpvibes.com/"
+msgstr "https://wpvibes.com/"
+
+#. Author of the plugin
+msgid "WPVibes"
+msgstr "WPVibes"
+
+#. Description of the plugin
+msgid "Allows you to insert elementor pages and library templates anywhere using shortcodes."
+msgstr "Låter dig infoga Elementor-sidor och biblioteksmallar var som helst med kortkoder."
+
+#. Plugin URI of the plugin
+msgid "https://www.elementoraddons.com/"
+msgstr "https://www.elementoraddons.com/"
+
+#. Plugin Name of the plugin
+msgid "Anywhere Elementor"
+msgstr "Anywhere Elementor"

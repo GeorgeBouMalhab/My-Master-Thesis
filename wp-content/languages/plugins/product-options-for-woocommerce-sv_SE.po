@@ -1,0 +1,128 @@
+# Translation of Plugins - Simple Product Options for WooCommerce - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Simple Product Options for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-22 11:28:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Simple Product Options for WooCommerce - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "http://www.hottons.com"
+msgstr "http://www.hottons.com"
+
+#. Author of the plugin
+msgid "Pektsekye"
+msgstr "Pektsekye"
+
+#: view/frontend/templates/product/options.php:66
+msgid "This field is required."
+msgstr "Detta fält är obligatoriskt."
+
+#: view/frontend/templates/product/options.php:41
+#: view/frontend/templates/product/options.php:48
+msgid "-- please select --"
+msgstr "-- välj --"
+
+#: view/frontend/templates/product/options.php:20
+msgid "None"
+msgstr "Ingen"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions.php:11
+msgid "Add Option"
+msgstr "Lägg till alternativ"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:106
+msgid "Delete Row"
+msgstr "Ta bort rad"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:85
+msgid "Add New Row"
+msgstr "Lägg till ny rad"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:76
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:115
+msgid "Price"
+msgstr "Pris"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:75
+msgid "Title"
+msgstr "Rubrik"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:51
+msgid "Required"
+msgstr "Obligatoriskt"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:44
+msgid "Area"
+msgstr "Område"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:43
+msgid "Field"
+msgstr "Fält"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:42
+msgid "Text"
+msgstr "Text"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:40
+msgid "Multiple Select"
+msgstr "Flerval"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:39
+msgid "Checkbox"
+msgstr "Kryssruta"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:38
+msgid "Radio Buttons"
+msgstr "Radioknappar"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:37
+msgid "Drop-down"
+msgstr "Rullgardinsmeny"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:36
+msgid "Select"
+msgstr "Välj"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:35
+msgid "-- Please select --"
+msgstr "-- Välj --"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:31
+msgid "Input Type"
+msgstr "Inmatningstyp"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:22
+msgid "Option Title"
+msgstr "Alternativrubrik"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:8
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:9
+msgid "Delete Custom Option"
+msgstr "Ta bort anpassat alternativ"
+
+#: Block/Adminhtml/Product/Edit/Tab/CustomOptions.php:22
+msgid "Custom Options"
+msgstr "Anpassade alternativ"
+
+#. Plugin Name of the plugin
+msgid "Product Options for WooCommerce"
+msgstr "Product Options for WooCommerce"
+
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:59
+#: view/adminhtml/templates/product/edit/tab/customoptions/options.php:77
+msgid "Sort Order"
+msgstr "Sorteringsordning"
+
+#: Setup/Install.php:15
+msgid "WooCommerce %s or higher is required (You are running %s)"
+msgstr "WooCommerce %s eller högre krävs (du kör %s)"
+
+#: Model/Observer.php:44
+msgid "Please specify the product required option(s)."
+msgstr "Specificera produktens obligatoriska alternativ."
